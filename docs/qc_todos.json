@@ -1,0 +1,14 @@
+[
+  { "id": 1, "title": "Stakeholderinterviews & eisen finaliseren", "status": "completed" },
+  { "id": 2, "title": "Definieer MVP-scope & prioriteit", "status": "not-started" },
+  { "id": 3, "title": "Schets datamodel & entiteiten", "status": "not-started" },
+  { "id": 4, "title": "Ontwerp workflows & UI-wizards", "status": "not-started" },
+  { "id": 5, "title": "Integratie Keyence & meethardware", "status": "not-started" },
+  { "id": 6, "title": "Implementatie revisiebeheer & docs", "status": "not-started" },
+  { "id": 7, "title": "Logging, traceerbaarheid & security", "status": "not-started" },
+  { "id": 8, "title": "Testronde & validatie op werkvloer", "status": "not-started" },
+  { "id": 9, "title": "Meertaligheid & multi-site support", "status": "not-started" },
+  { "id": 10, "title": "Uitrol, training & opschaling", "status": "not-started" },
+  { "id": 11, "title": "Kies technologie-stack (gratis/open-source opties)", "status": "not-started" },
+  { "id": 12, "title": "Uitwerken user stories & wireframes", "status": "in-progress" }
+]

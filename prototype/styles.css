@@ -1,0 +1,20 @@
+*{box-sizing:border-box;font-family:Segoe UI, Arial, sans-serif}
+body{margin:0;background:#f4f6f8;color:#222}
+header{background:#0b5;display:flex;align-items:center;justify-content:space-between;padding:10px 16px}
+header h1{margin:0;font-size:18px}
+nav button{margin-left:8px;padding:8px 12px;border-radius:6px;border:0;background:#fff}
+main{padding:16px}
+.card{background:#fff;border-radius:6px;padding:12px;margin-bottom:12px;box-shadow:0 1px 3px rgba(0,0,0,0.05)}
+.table{width:100%;border-collapse:collapse}
+.table th,.table td{padding:8px;border-bottom:1px solid #eee;text-align:left}
+.input-number{width:100px}
+.batch-area{background:#fbfbfb;padding:8px;border-radius:6px;border:1px solid #f0f0f0}
+.batch-grid{margin-bottom:6px}
+.batch-grid input{width:100%;padding:6px;border:1px solid #ddd;border-radius:4px;text-align:center}
+.button{padding:8px 12px;border:0;border-radius:6px;cursor:pointer}
+.btn-primary{background:#1976d2;color:#fff}
+.btn-danger{background:#d32f2f;color:#fff}
+.status-pass{color:green;font-weight:600}
+.status-fail{color:#d32f2f;font-weight:700}
+.small{font-size:13px;color:#666}
+@media (max-width:600px){nav{display:flex;flex-wrap:wrap}nav button{margin-top:8px}}
